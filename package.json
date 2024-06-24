@@ -28,7 +28,7 @@
     "@nuxtjs/tailwindcss": "^6.12.0",
     "nuxt": "^3.12.1",
     "vue": "^3.4.27",
-    "vue-router": "^4.3.3"
+    "vue-router": "^4.4.0"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.9.1",
